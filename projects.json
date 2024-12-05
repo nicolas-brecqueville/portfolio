@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "id": "app1",
+            "image": "assets/img/portfolio/app-calorieCounter.png",
+            "title": "Calorie Counter",
+            "category": "Application web",
+            "client": "",
+            "date": "2024",
+            "url": "",
+            "description": "Site web qui permet de calculer ses dépenses caloriques journalière en fonction."
+        },
+        {
+            "id": "web1",
+            "image": "assets/img/portfolio/app-todoApp.png",
+            "title": "TodoApp",
+            "category": "Application web",
+            "client": "",
+            "date": "2024",
+            "url": "",
+            "description": "Site qui permet de creer et d'enregistrer des notes."
+        },
+        {
+            "id": "app2",
+            "image": "assets/img/portfolio/app-palindromeCheck.png",
+            "title": "Roman Numeral Converter",
+            "category": "Application web",
+            "client": "",
+            "date": "2024",
+            "url": "",
+            "description": "Site qui permet de convertir un nombres et chiffre romain."
+        },
+        {
+            "id": "web2",
+            "image": "assets/img/portfolio/app-todoApp.png",
+            "title": "TodoApp",
+            "category": "Application web",
+            "client": "",
+            "date": "2024",
+            "url": "",
+            "description": "Site qui permet de creer et d'enregistrer des notes."
+        },
+        {
+            "id": "app3",
+            "image": "assets/img/portfolio/app-todoApp.png",
+            "title": "TodoApp",
+            "category": "Application web",
+            "client": "",
+            "date": "2024",
+            "url": "",
+            "description": "Site qui permet de creer et d'enregistrer des notes."
+        },
+        {
+            "id": "web3",
+            "image": "assets/img/portfolio/app-TelephoneNumber.png",
+            "title": "Telephone Number Validator",
+            "category": "Application web",
+            "client": "",
+            "date": "2024",
+            "url": "",
+            "description": "Site qui permet de verifier si l'input entrer par l'utilisateur est bien un numéro de téléphone."
+        }
+    ]
+}
